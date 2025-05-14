@@ -92,9 +92,9 @@ import Fearrininsurance3 from './carousels/Fearrininsurance/Fearrininsurance3.pn
 import GoAuto1 from './carousels/GoAuto/GoAuto1.png';
 import GoAuto2 from './carousels/GoAuto/GoAuto2.png';
 import GoAuto3 from './carousels/GoAuto/GoAuto3.png';
-import Menutiger1 from './carousels/Menutiger/Menutiger1.png';
-import Menutiger2 from './carousels/Menutiger/Menutiger2.png';
-import Menutiger3 from './carousels/Menutiger/Menutiger3.png';
+import Menutiger1 from './carousels/Menutiger/menutiger1.png';
+import Menutiger2 from './carousels/Menutiger/menutiger2.png';
+import Menutiger3 from './carousels/Menutiger/menutiger3.png';
 import Tutorful1 from './carousels/Tutorful/Tutorful1.png';
 import Tutorful2 from './carousels/Tutorful/Tutorful2.png';
 import Tutorful3 from './carousels/Tutorful/Tutorful3.png';
