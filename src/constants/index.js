@@ -332,7 +332,7 @@ const projects = [
     img: GoAuto,
     carousel: [GoAuto1, GoAuto2, GoAuto3],
     source_link: "hhttps://github.com/john1123-git/Car-Rental-front-end",
-    live_link: "https://www.chefmade.dk/",
+    live_link: "https://www.goauto.ca/",
   },
   {
     id: 8,
